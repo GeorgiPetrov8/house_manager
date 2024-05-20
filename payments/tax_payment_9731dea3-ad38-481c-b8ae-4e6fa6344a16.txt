@@ -1,0 +1,7 @@
+Company: dsa
+Employee: Boan
+BuildingNumber: 3
+ApartmentNumber: 3
+Amount: 250.00
+Payment Date: 07-01-2024
+----------------------------------

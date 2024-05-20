@@ -1,0 +1,7 @@
+Company: asd
+Employee: Mana
+BuildingNumber: 5
+ApartmentNumber: 4
+Amount: 230.00
+Payment Date: 18-01-2024
+----------------------------------

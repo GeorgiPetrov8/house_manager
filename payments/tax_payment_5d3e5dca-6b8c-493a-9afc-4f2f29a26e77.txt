@@ -1,0 +1,7 @@
+Company: nestle
+Employee: Asa
+BuildingNumber: 1
+ApartmentNumber: 1
+Amount: 223.00
+Payment Date: 18-01-2024
+----------------------------------
